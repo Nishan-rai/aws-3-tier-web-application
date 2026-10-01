@@ -62,3 +62,9 @@ The project also includes IAM-based S3 access and CloudWatch/SNS monitoring.
 - RDS Multi-AZ
 - HTTPS using AWS Certificate Manager
 - Custom domain using Route 53
+
+## Documentation
+
+Detailed project documentation is available here:
+
+[Project Documentation](documentation/AWS-3-Tier-Web-Application.pdf)
