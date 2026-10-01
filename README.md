@@ -14,7 +14,7 @@ The project also includes IAM-based S3 access and CloudWatch/SNS monitoring.
 
 ## Architecture
 
-![AWS 3-Tier Architecture](architecture/architecture-diagram.png)
+![AWS 3-Tier Architecture](architecture/aws-3-tier-architecture.png)
 
 ## AWS Services Used
 
